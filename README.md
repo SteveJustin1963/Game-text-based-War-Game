@@ -1,7 +1,7 @@
 # tec-WareGame
 
 
-<img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/a4374c51-00ba-43de-b471-33e0027f6cf1" />
+<img width="555" height="1000" alt="image" src="https://github.com/user-attachments/assets/a4374c51-00ba-43de-b471-33e0027f6cf1" />
 
 
 
